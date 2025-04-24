@@ -1,5 +1,3 @@
-package basic;
-
 public class Array {
   public static void main(String[] args) {
     int[] score = new int[3];

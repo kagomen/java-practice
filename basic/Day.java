@@ -1,5 +1,3 @@
-package basic;
-
 public class Day {
   public static void main(String[] args) {
     int year = 2025;

@@ -1,5 +1,3 @@
-package basic;
-
 public class MultiArray {
   public static void main(String[] args) {
     int[][] allScore = new int[2][3];

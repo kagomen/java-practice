@@ -1,5 +1,3 @@
-package basic;
-
 public class DataType {
   public static void main(String[] args) {
     // 基本データ型
