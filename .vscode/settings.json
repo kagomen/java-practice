@@ -1,0 +1,10 @@
+{
+  // Javaファイルのデフォルトフォーマッターとして設定
+  "[java]": {
+    "editor.defaultFormatter": "ilkka.google-java-format"
+  },
+  // google-java-format実行ファイルのパスを指定
+  "google-java-format.executable-path": "/opt/homebrew/bin/google-java-format",
+  // 保存時に自動フォーマット
+  "editor.formatOnSave": true
+}
